@@ -21,7 +21,7 @@ The balance accurancy score is 59% with the high risk precision at 1% with a 61%
 
 <img width="735" alt="Screen Shot 2021-03-05 at 9 25 26 AM" src="https://user-images.githubusercontent.com/72036895/110143766-d52c1580-7d94-11eb-992f-edce1c6aff68.png">
 
-The balance accurancy score is 65% with the high risk precision at 1% with a 61% sensitivity leading to a F1 at 1%. Because the low_risk category has such a high number the precision is 100% with 45% sensitivity.
+The balance accurancy score is 65% with the high risk precision at 1% with a 64% sensitivity leading to a F1 at 2%. Because the low_risk category has such a high number the precision is 100% with 66% sensitivity.
 
 ### ClusterCentroids resampler
 
