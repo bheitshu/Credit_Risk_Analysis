@@ -37,17 +37,23 @@ The balance accurancy score is 65% with the high risk precision at 1% with a 61%
 
 <img width="768" alt="Screen Shot 2021-03-05 at 9 28 10 AM" src="https://user-images.githubusercontent.com/72036895/110144057-250adc80-7d95-11eb-9f20-f521629bcca5.png">
 
+The balance accurancy score is 53% with the high risk precision at 1% with a 70% sensitivity leading to a F1 at 2%. Because the low_risk category has such a high number the precision is 100% with 57% sensitivity.
+
 ### BalancedRandomForestClassifier
 
 <img width="402" alt="Screen Shot 2021-03-05 at 9 29 26 AM" src="https://user-images.githubusercontent.com/72036895/110144331-75823a00-7d95-11eb-97b1-dd1635564ea9.png">
 
 <img width="762" alt="Screen Shot 2021-03-05 at 9 30 24 AM" src="https://user-images.githubusercontent.com/72036895/110144356-7c10b180-7d95-11eb-84a5-e34e599bdac7.png">
 
+The balance accurancy score is 79% with the high risk precision at 4% with a 67% sensitivity leading to a F1 at 7%. Because the low_risk category has such a high number the precision is 100% with 91% sensitivity.
+
 ### EasyEnsembleClassifier
 
 <img width="445" alt="Screen Shot 2021-03-05 at 9 32 19 AM" src="https://user-images.githubusercontent.com/72036895/110144569-b7ab7b80-7d95-11eb-9897-d3b120d4e201.png">
 
 <img width="740" alt="Screen Shot 2021-03-05 at 9 32 26 AM" src="https://user-images.githubusercontent.com/72036895/110144602-c09c4d00-7d95-11eb-9a91-7424202abf6b.png">
+
+The balance accurancy score is 79% with the high risk precision at 4% with a 67% sensitivity leading to a F1 at 7%. Because the low_risk category has such a high number the precision is 100% with 91% sensitivity.
 
 
 ## Summary
