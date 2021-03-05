@@ -53,7 +53,7 @@ The balance accurancy score is 79% with the high risk precision at 4% with a 67%
 
 <img width="740" alt="Screen Shot 2021-03-05 at 9 32 26 AM" src="https://user-images.githubusercontent.com/72036895/110144602-c09c4d00-7d95-11eb-9a91-7424202abf6b.png">
 
-The balance accurancy score is 79% with the high risk precision at 4% with a 67% sensitivity leading to a F1 at 7%. Because the low_risk category has such a high number the precision is 100% with 91% sensitivity.
+The balance accurancy score is 93% with the high risk precision at 7% with a 91% sensitivity leading to a F1 at 14%. Because the low_risk category has such a high number the precision is 100% with 94% sensitivity.
 
 
 ## Summary
