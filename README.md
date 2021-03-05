@@ -12,13 +12,16 @@ The purpose of this analysis was to create machine learning models to predict cr
 
 <img width="840" alt="Screen Shot 2021-03-05 at 9 21 37 AM" src="https://user-images.githubusercontent.com/72036895/110143489-89796c00-7d94-11eb-8855-16def4b74cc1.png">
 
+
+The balance accurancy score is 59% with the high risk precision at 1% with a 61% sensitivity leading to a F1 at 1%. Because the low_risk category has such a high number the precision is 100% with 57% sensitivity.
+
 ### SMOTE
 
 <img width="444" alt="Screen Shot 2021-03-05 at 9 25 20 AM" src="https://user-images.githubusercontent.com/72036895/110143697-bcbbfb00-7d94-11eb-9f26-01dad4369de0.png">
 
-The balance accuracy is 
-
 <img width="735" alt="Screen Shot 2021-03-05 at 9 25 26 AM" src="https://user-images.githubusercontent.com/72036895/110143766-d52c1580-7d94-11eb-992f-edce1c6aff68.png">
+
+The balance accurancy score is 65% with the high risk precision at 1% with a 61% sensitivity leading to a F1 at 1%. Because the low_risk category has such a high number the precision is 100% with 45% sensitivity.
 
 ### ClusterCentroids resampler
 
