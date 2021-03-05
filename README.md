@@ -29,6 +29,8 @@ The balance accurancy score is 65% with the high risk precision at 1% with a 64%
 
 <img width="764" alt="Screen Shot 2021-03-05 at 9 27 10 AM" src="https://user-images.githubusercontent.com/72036895/110143916-00af0000-7d95-11eb-8481-0edc3a9987eb.png">
 
+The balance accurancy score is 65% with the high risk precision at 1% with a 61% sensitivity leading to a F1 at 1%. Because the low_risk category has such a high number the precision is 100% with 45% sensitivity.
+
 ### SMOTEENN
 
 <img width="497" alt="Screen Shot 2021-03-05 at 9 27 57 AM" src="https://user-images.githubusercontent.com/72036895/110144032-1de3ce80-7d95-11eb-9bfb-c11e22cb2216.png">
